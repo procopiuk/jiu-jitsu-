@@ -9,8 +9,8 @@ h1{
     color: rgb(164, 28, 198);
     text-transform: uppercase;
 }
+
 h2{
-    text-align: center;
+    text-align: left;
     color: blueviolet;
-    text-transform: uppercase;
 }
