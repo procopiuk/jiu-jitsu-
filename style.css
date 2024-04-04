@@ -7,11 +7,11 @@ body{
 
 h1{
     text-align: center;
-    color: rgb(164, 28, 198);
+    color: rgb(142, 18, 18);
     text-transform: uppercase;
 }
 
 h3{
     text-align: left;
-    color: blueviolet;
+    color: rgb(0, 0, 0);
 }
